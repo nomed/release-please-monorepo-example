@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/nomed/release-please-monorepo-example/compare/hello_rust@v0.3.1...hello_rust@v0.3.2) (2024-08-01)
+
+
+### Bug Fixes
+
+* test final ([69a9503](https://github.com/nomed/release-please-monorepo-example/commit/69a950391ddb4530748d6df7bba1621a6e7251e8))
+
 ## [0.3.1](https://github.com/nomed/release-please-monorepo-example/compare/hello_rust@v0.3.0...hello_rust@v0.3.1) (2024-08-01)
 
 
