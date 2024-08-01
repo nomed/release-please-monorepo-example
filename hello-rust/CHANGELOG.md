@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.1](https://github.com/nomed/release-please-monorepo-example/compare/hello_rust@v0.3.0...hello_rust@v0.3.1) (2024-08-01)
+
+
+### Bug Fixes
+
+* Cargo.lock ([df0cc84](https://github.com/nomed/release-please-monorepo-example/commit/df0cc846f3397706c5285ddc8c1a345933b53d69))
+* Cargo.toml ([d85655a](https://github.com/nomed/release-please-monorepo-example/commit/d85655a5fd2fd7428b243bf9c5474b238ec30b29))
+
 ## [0.3.0](https://github.com/nomed/release-please-monorepo-example/compare/hello_rust-v0.2.0...hello_rust@v0.3.0) (2024-08-01)
 
 
