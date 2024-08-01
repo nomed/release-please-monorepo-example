@@ -3,8 +3,7 @@ name: Release Please
 on:
   push:
     branches: [main]
-    paths:
-      - "hello-rust/**"
+
 
 permissions:
   contents: write
